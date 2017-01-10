@@ -2,7 +2,7 @@
 
 ## Project: Train a Smartcab How to Drive
 
-## Part of the Machine Learning Engineer Nanodegree
+## Part of the Udacity Machine Learning Engineer Nanodegree
 
 ### Install
 
